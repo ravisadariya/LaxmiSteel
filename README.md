@@ -4,7 +4,7 @@
 
 **Laxmi Steel** is a fully responsive, static website built with **HTML5** and **CSS3**, designed to showcase a steel utensils business. The project highlights essential company details, product offerings, and contact information in a clean, user-friendly layout.
 
-🌐 **Live Demo**: [laxmisteel.netlify.app](https://laxmisteel.netlify.app/)
+🌐 **Live Demo**: [laxmisteel](https://laxmisteel.netlify.app/)
 
 ---
 
