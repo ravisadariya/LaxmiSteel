@@ -1,25 +1,35 @@
-
-
 # 🏭 Laxmi Steel
 
-**Laxmi Steel** is a fully responsive, static website built with **HTML5** and **CSS3**, designed to showcase a steel utensils business. The project highlights essential company details, product offerings, and contact information in a clean, user-friendly layout.
-
-🌐 **Live Demo**: [laxmisteel](https://laxmisteel.netlify.app/)
-
----
-
-## 🔍 Features
-
-* 🏠 **Homepage** – Attractive landing page with hero section and navigation
-* ℹ️ **About Us Page** – Company details and values
-* 🛒 **Products Page** – Display of available utensils with images
-* 📞 **Contact Page** – Easy-to-access contact form and details
-* 📱 **Responsive Design** – Works smoothly across devices
-* 🎨 **Custom CSS Styling** – Unique design tailored for branding
+## 📌 Overview
+Laxmi Steel is a responsive multi-page website developed using HTML5 and CSS3. It represents a steel utensils business, showcasing company information, product offerings, and contact details through a clean and user-friendly interface.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- Responsive Design (Media Queries)  
+- Netlify (Deployment)  
 
-* **Frontend**: HTML5, CSS3
-* **Hosting**: Netlify (static site deployment)
+---
+
+## ✨ Features
+- 🏠 Structured homepage with navigation and hero section  
+- ℹ️ Dedicated About page with company information  
+- 🛒 Product showcase with images and organized layout  
+- 📞 Contact page with business details  
+- 📱 Fully responsive design across devices  
+- 🎨 Custom CSS styling for branding and layout consistency  
+
+---
+
+## 🚀 Live Demo
+👉 [Laxmi Steel](https://laxmisteel.netlify.app/)
+
+---
+
+## ⚙️ Installation & Setup
+```bash
+git clone https://github.com/ravisadariya/LaxmiSteel.git
+cd LaxmiSteel
+open index.html
